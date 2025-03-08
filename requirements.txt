@@ -1,0 +1,6 @@
+streamlit
+streamlit-components
+py3Dmol
+requests
+dotenv
+groq
